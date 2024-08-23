@@ -1,4 +1,4 @@
-#JLaabel:
+#JLabel:
 
 
 A - Provide text on GUI
